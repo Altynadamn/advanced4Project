@@ -180,9 +180,10 @@ Special thanks to the following tools that made this project possible:
 ---
 
 ## Screenshots
-1. **Upload Interface**: Show the file uploader and a sample uploaded document.![[Screenshot3jpg.jpg]]
-2. **Chat Interface**: ![[Screenshot6.jpg]].
-3. **Article Reference**: ![[Screenshot1.jpg]]
-4. **Chat History**: ![[Screenshot5.jpg]]
+1. **Upload Interface**: ![Screenshot3jpg](https://github.com/user-attachments/assets/89ff47cd-698a-4957-934a-c42797d305a7)
+2. **Chat Interface**: ![Screenshot6](https://github.com/user-attachments/assets/d79e57e3-7b00-40a4-9295-fb27a9896cdb)
+3. **Article Reference**: ![Screenshot1](https://github.com/user-attachments/assets/9ff76a42-59b1-456f-8d65-10fdf7c95923)
+4. **Chat History**: ![Screenshot5](https://github.com/user-attachments/assets/fc09e3e7-d716-4758-9ef2-1b8897ff69a3)
+
 
 ---
