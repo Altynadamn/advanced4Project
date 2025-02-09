@@ -1,4 +1,4 @@
-# Interactive AI Assistant for the Constitution of Kazakhstan
+# Interactive AI Assistant
 
 ## Project Overview
 LlamaChat is an interactive Retrieval-Augmented Generation (RAG) chatbot designed to provide contextual answers based on uploaded documents, particularly focusing on the **Constitution of Kazakhstan**. This AI-powered assistant leverages advanced language models to process legal texts, making it an invaluable tool for understanding constitutional law, answering detailed questions, and assisting with legal research. Users can upload .txt or .pdf files containing the Constitution of Kazakhstan or similar legal documents, and the chatbot will provide answers based on the content.
