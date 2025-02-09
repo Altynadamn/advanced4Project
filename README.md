@@ -96,7 +96,6 @@ Ensure you have the following installed:
    - Upload the full text of the **Constitution of Kazakhstan** (or other legal documents) in `.txt` or `.pdf` format.
    - The chatbot will process the content and store it for querying.
 
-   **Screenshot Suggestion**: Add a screenshot of the upload interface here. Show the file uploader and a sample uploaded document.
 
 ---
 
@@ -107,21 +106,18 @@ Ensure you have the following installed:
      - *"How does the Constitution define the responsibilities of the President?"*
    - The chatbot will reference the uploaded Constitution to provide specific and accurate answers based on the relevant sections or articles.
 
-   **Screenshot Suggestion**: Add a screenshot of the chat interface showing a user asking a question and the chatbot providing a detailed response.
 
 ---
 
 ### 3. **Retrieve Contextual Information**
    - The chatbot will highlight relevant sections or articles from the Constitution to support its answers.
 
-   **Screenshot Suggestion**: Add a screenshot showing the chatbot referencing a specific article or section of the Constitution in its response.
 
 ---
 
 ### 4. **View Chat History**
    - All chat interactions are stored in **MongoDB** and can be retrieved for future reference.
 
-   **Screenshot Suggestion**: Add a screenshot of the chat history interface showing past queries and responses.
 
 ---
 
