@@ -130,7 +130,7 @@ Ensure you have the following installed:
    - **Specific Article Retrieval**: The chatbot can identify and retrieve specific articles mentioned in the query.
    - **Multi-Model Support**: Choose from different models like `llama3.2` for generating responses.
 
-   **Screenshot Suggestion**: Add a screenshot of the settings or model selection interface.
+![Screenshot6](https://github.com/user-attachments/assets/56a32f5e-6396-4ae8-8ba2-b8ca17360364)
 
 ---
 
